@@ -2,7 +2,7 @@
 <h1 align="center" >Text File Encryption Using Java</h1>
 
 
-<h1 align="center" ><img src="https://github.com/MANISH-SAHANI/Kitchen-Chaos-Game/assets/91081774/290ce5f8-474d-41ab-8395-65e4d1e1b5c7" alt="Logo" width="750" /></h1>
+<h1 align="center" ><img src="https://github.com/MANISH-SAHANI/Text-File-Encryption-Using-Java/assets/91081774/6f68aca4-6ddb-44eb-a90d-e130e20b4c04" alt="Logo" width="750" /></h1>
 
 
 <h2>Encryption System : </h2> 
@@ -11,7 +11,6 @@ Encryption System is yet another learning time project developed in java, the id
 What it does is, it simply takes an input file of any of the two above mentioned format and then convert it into some non-readable (cipher text)  format, with some password, and this password is only known to sender and receiver.
 So in this way the sender will send the cipher text to the receiver using the public network and without taking any risk, as in the mean time if some unauthorized user will try to read or intercept it then he will not going to make out any sense out of those non readable cipher text contain.
 So at the receiver's end upon receiving the cipher text message he will use this Encryption System and the same password used by the sender, to decrypt it into the original format.
-
 
 <h2>Features of Encryption System :</h2> 
 
